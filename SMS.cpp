@@ -2,14 +2,6 @@
 #include <string>
 using namespace std;
 
-/*
-Group Members
-1) Mubahil Ahmad (211037)
-2) Ahsan Ahmad   (211059)
-3) Syed zain     (211113)
-4) Shahrukh khan (211061) 
-*/
-
 string names[20], rollNumbers[20], course[20], semester[20], contact[20];
 int total=0;
 
