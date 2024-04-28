@@ -1,4 +1,4 @@
-#Student Management System
+/h1Student Management System
 This is a simple student management system implemented in C++. It allows users to manage student records, including entering, displaying, searching, updating, and deleting student data.
 
 ##Features
